@@ -1,0 +1,23 @@
+{
+  "name": "marcador-turnos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nachopillonetto-rgb/marcador-turnos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nachopillonetto-rgb/marcador-turnos/issues"
+  },
+  "homepage": "https://github.com/nachopillonetto-rgb/marcador-turnos#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
